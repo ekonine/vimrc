@@ -1,0 +1,18 @@
+[submodule ".vim/bundle/.vim/bundle/auto-pairs"]
+	path = .vim/bundle/.vim/bundle/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule ".vim/bundle/.vim/bundle/nerdtree"]
+	path = .vim/bundle/.vim/bundle/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule ".vim/bundle/.vim/bundle/ale"]
+	path = .vim/bundle/.vim/bundle/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule ".vim/bundle/.vim/bundle/open_file_under_cursor.vim"]
+	path = .vim/bundle/.vim/bundle/open_file_under_cursor.vim
+	url = https://github.com/amix/open_file_under_cursor.vim.git
+[submodule ".vim/bundle/.vim/bundle/vim-indent-object"]
+	path = .vim/bundle/.vim/bundle/vim-indent-object
+	url = https://github.com/michaeljsmith/vim-indent-object.git
+[submodule ".vim/bundle/.vim/bundle/vim-js"]
+	path = .vim/bundle/.vim/bundle/vim-js
+	url = https://github.com/yuezk/vim-js.git
