@@ -28,3 +28,12 @@
 [submodule ".vim/bundle/yats.vim"]
 	path = .vim/bundle/yats.vim
 	url = https://github.com/HerringtonDarkholme/yats.vim.git
+[submodule ".vim/bundle/mru.vim"]
+	path = .vim/bundle/mru.vim
+	url = https://github.com/vim-scripts/mru.vim.git
+[submodule ".vim/bundle/vim-commentary"]
+	path = .vim/bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule ".vim/bundle/vim-jsx-pretty"]
+	path = .vim/bundle/vim-jsx-pretty
+	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
